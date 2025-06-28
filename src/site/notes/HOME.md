@@ -4,6 +4,5 @@
 
 Bu bir test notudur
 
-Gamzem
 
 
