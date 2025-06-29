@@ -16,3 +16,5 @@ PLC Açılımı Nedir?
 
 [[Online/Hakkımda\|Hakkımda]]
 
+[[Online/Proje1\|Proje1]]
+
