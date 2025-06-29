@@ -11,5 +11,7 @@ PLC Açılımı Nedir?
 
 **PLC açılımı**; İngilizce olarak Programmable Logic Controller, Türkçe açılımı ise Programlanabilir Lojik Kontrolör veya Programlanabilir Mantıksal Denetleyici olarak bilinir. Böylelikle **PLC** anlamını da kısa bir şekilde özetlemiş olduk.
 
+![Pasted image 20250629101429.png](/img/user/Pasted%20image%2020250629101429.png)
+
 
 
