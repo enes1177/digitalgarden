@@ -1,59 +1,13 @@
-/* --- NİHAİ TEMA VE YERLEŞİM KODU --- */
-
 body {
-  /* Renk ve font ayarları */
-  background-color: #121212;
-  color: #e0e0e0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-  line-height: 1.6;
-
-  /* YERLEŞİM DÜZELTMESİ:
-     Orijinal 3 sütunlu yapıyı koruyoruz ama oranlarını değiştiriyoruz.
-     Kenarlara %5'lik bir boşluk bırakıp, ortadaki ana içeriğe kalan tüm alanı (%90) veriyoruz.
-     Bu, içeriğin genişlemesini sağlar.
-  */
-  grid-template-columns: 5% 1fr 5%;
-}
-
-/* Bu yöntemle main etiketine dokunmamıza gerek kalmıyor, 
-  çünkü o zaten her zaman ortadaki (ikinci) sütunu kullanmak üzere ayarlı.
-*/
-
-
-/* --- Diğer Stil Ayarları --- */
-h1, h2, h3, h4, h5, h6 {
-  color: #ffffff;
-  border-bottom: 1px solid #333333;
-  padding-bottom: 0.3em;
-  margin-top: 1.5em;
-}
-
-a {
-  color: #58a6ff;
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-
-blockquote {
-  border-left: 3px solid #58a6ff;
-  padding-left: 1.5em;
-  margin-left: 0;
-  color: #a0a0a0;
-  font-style: italic;
-}
-
-pre {
-  background-color: #1e1e1e;
-  border: 1px solid #333333;
-  border-radius: 6px;
-  padding: 1em;
-  overflow-x: auto;
-}
-
-code {
-  font-family: "Courier New", Courier, monospace;
-  color: #c9d1d9;
+    /***
+      ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
+      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
+   ***/
+    //  background-color: white;
+    //  .content {
+    //   font-size: 14px;
+    //  }
+    //  h1 {
+    //   color: black;
+    //  }
 }
