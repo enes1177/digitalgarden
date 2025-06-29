@@ -5,6 +5,3 @@
 
 
 enes
-horan
-kasyeri
-üniversitesi
